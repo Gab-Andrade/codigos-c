@@ -1,3 +1,5 @@
+//Programa pra um professor cadastrar alunos, e ver se foram aprovados ou não, no menu é possível escolher:
+
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
